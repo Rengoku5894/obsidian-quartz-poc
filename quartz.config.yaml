@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Rengoku5894.github.io
+  baseUrl: Rengoku5894.github.io/obsidian-quartz-poc
   ignorePatterns:
     - private
     - templates
